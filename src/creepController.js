@@ -1,4 +1,4 @@
-module.export = function(creep){
+module.export = function(){
 	//get creep state
 	
 	
